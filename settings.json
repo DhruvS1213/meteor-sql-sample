@@ -1,0 +1,12 @@
+{
+    "database": {
+        "server"   : "10.29.24.190",
+        "database" : "feedback",
+        "user"     : "sa",
+        "password" : "Ericsson@1234",
+        "options"  : {
+            "useUTC"     : false,
+            "appName"    : "MeteorApp"
+        }
+    }
+}
